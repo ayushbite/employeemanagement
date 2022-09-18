@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "firstname": "Arvind",
+      "lastname": "Kumar",
+      "birthdate": "2002-05-02",
+      "gender": "m",
+      "education": "graduate",
+      "company": "GameBox LtD",
+      "jobExperience": 0,
+      "salary": 8,
+      "id": 2
+    },
+    {
+      "firstname": "Ayush",
+      "lastname": "Yadav",
+      "birthdate": "2001-01-08",
+      "gender": "m",
+      "education": "graduate",
+      "company": "Efftronics",
+      "jobExperience": 0,
+      "salary": 6,
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
